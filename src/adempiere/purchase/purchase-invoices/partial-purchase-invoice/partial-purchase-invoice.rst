@@ -2,7 +2,7 @@
 .. _document/partial-purchase-invoice:
 
 
-**Factura de Compra Parcial**
+**Factura Parcial de Compra**
 -----------------------------
 
 #. Párrafo indexado 
