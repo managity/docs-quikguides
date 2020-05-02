@@ -1,4 +1,4 @@
 .. toctree::
     :maxdepth: 2
 
-    convert-requisition-in-po.rst
+    convert-requisition-in-po
