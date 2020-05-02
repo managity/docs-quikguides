@@ -2,7 +2,7 @@
 .. _document/po-entry:
 
 
-**Ingreso de Órdees de Compra**
+**Ingreso de Órdenes de Compra**
 ----------------------
 
 #. Párrafo indexado 
