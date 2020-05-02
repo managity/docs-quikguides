@@ -2,7 +2,7 @@
 .. _document/requisition-authorization:
 
 
-**Autorizacion de Requisiciones**
+**Autorización de Requisiciones**
 ---------------------------------
 
 #. Párrafo indexado 
