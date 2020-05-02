@@ -2,8 +2,8 @@
 .. _document/complete-purchase-invoice:
 
 
-**Factura de Compra Total**
------------------------------
+**Factura Total de Compra**
+---------------------------
 
 #. Párrafo indexado 
 
