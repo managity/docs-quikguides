@@ -6,5 +6,5 @@
     so-credit/index
     so-prepaid/index
     so-warehouse/index
-    so-cash/index
+    so-paid-immediate/index
     so-pos/index
