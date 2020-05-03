@@ -8,7 +8,6 @@ Se describen procesos importantes en Facturas de Compra.
 
 **Tabla de Contenido**
 
-
 .. toctree::
     :maxdepth: 2
 
