@@ -2,4 +2,4 @@
 .. toctree::
     :maxdepth: 2
 
-     locations-movement
+    locations-movement
