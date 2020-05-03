@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'docs'
+project = 'docs-quick-guides'
 copyright = '2020, ADempiere ERP'
 author = 'Managity.'
 
