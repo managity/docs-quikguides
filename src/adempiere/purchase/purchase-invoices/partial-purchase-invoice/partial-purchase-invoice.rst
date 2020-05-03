@@ -1,10 +1,7 @@
 
 .. _document/partial-purchase-invoice:
 
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-**Factura Parcial de Compra**
------------------------------
-
-#. Párrafo indexado 
-
-   Texto
+#. Texto
