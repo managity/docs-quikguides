@@ -6,4 +6,4 @@
     material-movement/index
     inventory/index
     material-return/index
-    reports/index
+    material-reports/index
