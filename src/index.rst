@@ -1,10 +1,8 @@
-.. _src/general/procedures-standards:
-
 =========================
 Guías Rápidas de Managity
 =========================
 
-La presente documentación está dirigida a usuarios finales operativos de Managity..
+La presente documentación está dirigida a usuarios finales operativos de Managity.
 
 Tabla de Contenido
 =================
