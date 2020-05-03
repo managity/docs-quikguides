@@ -15,6 +15,7 @@ Tabla de Contenido
     adempiere/sales/index
     adempiere/warehouses/index
 
+
 Para Mayor Información
 ======================
 
