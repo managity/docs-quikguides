@@ -11,7 +11,10 @@ Tabla de Contenido
     :maxdepth: 1
     :numbered:
     
-    adempiere/index
+    adempiere/purchase/index
+    adempiere/sales/index
+    adempiere/warehouses/index
+
 
 Para Mayor Información
 ======================
