@@ -1,4 +1,4 @@
-.. _/purchase/purchase-orders:
+.. _/purchase/purchase-invoices:
 
 ======================
 **Facturas de Compra**
