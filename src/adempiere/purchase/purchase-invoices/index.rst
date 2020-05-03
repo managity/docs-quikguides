@@ -1,3 +1,13 @@
+.. _/purchase/purchase-orders:
+
+======================
+**Facturas de Compra**
+======================
+
+Se describen procesos importantes en Facturas de Compra.
+
+**Tabla de Contenido**
+
 
 .. toctree::
     :maxdepth: 2
