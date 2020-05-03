@@ -3,7 +3,7 @@
 
 
 **Entrega de Material-Orden de Almacén**
------------------------
+----------------------------------------
 
 #. Párrafo indexado 
 
