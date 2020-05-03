@@ -1,10 +1,5 @@
 
-.. _document/standard-shipment:
+.. toctree::
+    :maxdepth: 2
 
-
-**Entrega de Material**
------------------------
-
-#. Párrafo indexado 
-
-   Texto
+    standard-shipment
