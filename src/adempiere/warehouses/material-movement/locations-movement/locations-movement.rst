@@ -2,7 +2,7 @@
 .. _document/locations-movement:
 
 
-**Traslados de una ubicación a otra**
+**Traslados de una Ubicación a otra**
 -------------------------------------
 
 #. Párrafo indexado 
