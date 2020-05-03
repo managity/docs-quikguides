@@ -3,7 +3,7 @@
 
 
 **Cerrar Orden de Compra**
-----------------------
+--------------------------
 
 #. Párrafo indexado 
 
