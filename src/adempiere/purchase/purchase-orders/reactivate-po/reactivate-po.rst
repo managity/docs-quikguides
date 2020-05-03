@@ -1,10 +1,7 @@
 
 .. _document/reactivate-po:
 
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-**Reactivar Orden de Compra**
------------------------------
-
-#. Párrafo indexado 
-
-   Texto
+#. Texto
