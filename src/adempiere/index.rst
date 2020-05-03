@@ -1,3 +1,5 @@
+.. _src/adempiere:
+
 =======================
 Guías Rápidas ADempiere
 =======================
