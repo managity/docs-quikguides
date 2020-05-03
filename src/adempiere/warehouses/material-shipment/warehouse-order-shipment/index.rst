@@ -1,10 +1,5 @@
 
-.. _document/warehouse-order-shipment:
+.. toctree::
+    :maxdepth: 2
 
-
-**Entrega de Material Orden de Almacén**
-----------------------------------------
-
-#. Párrafo indexado 
-
-   Texto
+    warehouse-order-shipment
