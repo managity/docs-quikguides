@@ -1,10 +1,7 @@
 
 .. _document/requisition-authorization:
 
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-**Autorización de Requisiciones**
----------------------------------
-
-#. Párrafo indexado 
-
-   Texto
+#. Texto
