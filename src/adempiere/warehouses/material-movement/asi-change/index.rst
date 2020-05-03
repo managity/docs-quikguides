@@ -2,4 +2,4 @@
 .. toctree::
     :maxdepth: 2
 
-    asi-change/index
+    asi-change
