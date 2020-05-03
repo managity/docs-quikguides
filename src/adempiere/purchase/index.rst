@@ -1,4 +1,4 @@
-.. _src/adempiere/purchase:
+.. _/purchase:
 
 ===========
 **Compras**
