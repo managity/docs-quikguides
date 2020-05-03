@@ -1,5 +1,15 @@
+.. _src/adempiere/purchase:
+
+===========
+**Compras**
+===========
+
+Se describen procesos importenates en Compras.
+
+**Tabla de Contenido**
+
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
 
     requisitions/index
     purchase-orders/index
