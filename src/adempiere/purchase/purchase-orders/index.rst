@@ -9,7 +9,7 @@ Se describen procesos importantes en Órdenes de Compra.
 **Tabla de Contenido**
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 3
 
     po-entry/index
     reactivate-po/index
