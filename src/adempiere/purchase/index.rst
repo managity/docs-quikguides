@@ -1,10 +1,10 @@
-.. _src/adempiere/purchase:
+.. _/purchase:
 
 ===========
 **Compras**
 ===========
 
-Se describen procesos importenates en Compras.
+Se describen procesos importantes en Compras.
 
 **Tabla de Contenido**
 

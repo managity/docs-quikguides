@@ -1,5 +1,15 @@
+.. _/purchase/requisitions:
+
+=================
+**Requisiciones**
+=================
+
+Se describen procesos importantes en Requisiciones.
+
+**Tabla de Contenido**
+
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 3
 
     requisition-entry/index
     requisition-authorization/index
