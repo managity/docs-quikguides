@@ -1,10 +1,7 @@
 
 .. _document/convert-requisition-in-po:
 
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-**Convertir Requisición en Orden de Compra**
---------------------------------------------
-
-#. Párrafo indexado 
-
-   Texto
+#. Texto
