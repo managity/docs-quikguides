@@ -1,10 +1,5 @@
 
-.. _document/partial-material-receipt:
+.. toctree::
+    :maxdepth: 2
 
-
-**Recibo Parcial de Material**
--------------------------------
-
-#. Párrafo indexado 
-
-   Texto
+    partial-material-receipt
