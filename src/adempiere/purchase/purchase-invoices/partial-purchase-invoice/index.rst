@@ -1,4 +1,12 @@
 
+
+=============================
+**Factura Parcial de Compra**
+=============================
+
+Se describen los casos para facturar parcialmente en Compras. 
+
+
 .. toctree::
     :maxdepth: 4
 

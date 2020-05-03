@@ -1,9 +1,7 @@
 
 .. _document/requisition-entry:
 
-**Ingreso de Requisiciones**
-----------------------------
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Párrafo indexado 
-
-   Texto
+#. Texto

@@ -1,10 +1,7 @@
 
 .. _document/close-requisition:
 
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-**Cerrar Requisición**
-----------------------
-
-#. Párrafo indexado 
-
-   Texto
+#. Texto

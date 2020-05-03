@@ -1,3 +1,11 @@
+
+
+============================================
+**Convertir Requisición en Orden de Compra**
+============================================
+
+Se describen los casos para convertir una Requisición en Orden de Compra. 
+
 .. toctree::
     :maxdepth: 4
 

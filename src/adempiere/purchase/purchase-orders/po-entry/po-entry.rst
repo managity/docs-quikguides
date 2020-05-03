@@ -1,10 +1,7 @@
 
 .. _document/po-entry:
 
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-**Ingreso de Órdenes de Compra**
---------------------------------
-
-#. Párrafo indexado 
-
-   Texto
+#. Texto
