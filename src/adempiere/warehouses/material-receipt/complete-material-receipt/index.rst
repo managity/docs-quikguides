@@ -1,10 +1,6 @@
 
-.. _document/complete-material-receipt:
 
+.. toctree::
+    :maxdepth: 2
 
-**Recibo Completo de Material**
--------------------------------
-
-#. Párrafo indexado 
-
-   Texto
+    complete-material-receipt
