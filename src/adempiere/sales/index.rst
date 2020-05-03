@@ -8,3 +8,4 @@
     so-warehouse/index
     so-paid-immediate/index
     so-pos/index
+    sales-invoice/index
