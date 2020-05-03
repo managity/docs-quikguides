@@ -1,3 +1,5 @@
+.. _src/adempiere:
+
 =======================
 Guías Rápidas ADempiere
 =======================
@@ -6,7 +8,7 @@ ADempiere es un ERP, CRM y SCM software libre específicamente usa la licencia G
 
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
 
     purchase/index
     sales/index
