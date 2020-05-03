@@ -4,7 +4,7 @@
 **Órdenes de Compra**
 =====================
 
-Se describen procesos importantes en Requisiciones.
+Se describen procesos importantes en Órdenes de Compra.
 
 **Tabla de Contenido**
 
