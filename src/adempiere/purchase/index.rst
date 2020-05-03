@@ -4,7 +4,7 @@
 **Compras**
 ===========
 
-Se describen procesos importenates en Compras.
+Se describen procesos importantes en Compras.
 
 **Tabla de Contenido**
 
