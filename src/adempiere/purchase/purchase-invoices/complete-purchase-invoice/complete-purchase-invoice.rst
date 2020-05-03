@@ -1,10 +1,7 @@
 
 .. _document/complete-purchase-invoice:
 
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-**Factura Total de Compra**
----------------------------
-
-#. Párrafo indexado 
-
-   Texto
+#. Texto
