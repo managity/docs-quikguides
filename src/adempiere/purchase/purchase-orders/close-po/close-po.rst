@@ -1,10 +1,7 @@
 
 .. _document/close-po:
 
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-**Cerrar Orden de Compra**
---------------------------
-
-#. Párrafo indexado 
-
-   Texto
+#. Texto
