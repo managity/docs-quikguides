@@ -2,9 +2,7 @@
 .. _document/rma-material-shipment:
 
 
-**Entrega de Material a Proveedores**
--------------------------------------
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Párrafo indexado 
-
-   Texto
+#. Texto
