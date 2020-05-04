@@ -1,4 +1,4 @@
-
+.. _/purchase/requisition-authorization:
 
 =================================
 **Autorización de Requisiciones**
