@@ -13,6 +13,7 @@ Tabla de Contenido
     
     adempiere/purchase/index
     adempiere/sales/index
+    adempiere/warehouses/index
 
 
 Para Mayor Información
