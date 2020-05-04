@@ -2,9 +2,8 @@
 .. _document/partial-material-receipt:
 
 
-**Recibo Parcial de Material**
--------------------------------
 
-#. Párrafo indexado 
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-   Texto
+#. Texto
