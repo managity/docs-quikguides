@@ -5,7 +5,7 @@
 **Factura Parcial de Venta**
 ============================
 
-Se describen los casos para cerrar una Requisición. 
+Se describen los casos para manejar una Factura Parcial de Venta. 
 
 .. toctree::
     :maxdepth: 4
