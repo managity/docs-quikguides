@@ -2,9 +2,7 @@
 .. _document/rma-debit-note-vendor:
 
 
-**Generar Nota de Crédito a Proveedores**
------------------------------------------
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Párrafo indexado 
-
-   Texto
+#. Texto
