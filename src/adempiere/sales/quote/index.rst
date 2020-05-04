@@ -11,7 +11,7 @@ Se describen procesos importantes en Cotizaciones.
 
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 3
 
     quote-entry/index
     quote-authorization/index
