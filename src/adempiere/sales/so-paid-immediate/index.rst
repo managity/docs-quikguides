@@ -1,5 +1,5 @@
 
-.. _/sales/so-credit:
+.. _/sales/so-paid-immediate:
 
 ==========================================
 **Orden de Venta Estándar Pago Inmediato**
