@@ -12,6 +12,7 @@ Tabla de Contenido
     :numbered:
     
     adempiere/purchase/index
+    adempiere/sales/index
 
 
 Para Mayor Información
