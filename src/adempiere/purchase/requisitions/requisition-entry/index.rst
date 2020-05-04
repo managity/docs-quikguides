@@ -1,3 +1,4 @@
+.. _/purchase/requisition-entry:
 
 ============================
 **Ingreso de Requisiciones**
