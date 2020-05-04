@@ -2,9 +2,7 @@
 .. _document/warehouse-order-shipment:
 
 
-**Entrega de Material-Orden de Almacén**
-----------------------------------------
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Párrafo indexado 
-
-   Texto
+#. Texto

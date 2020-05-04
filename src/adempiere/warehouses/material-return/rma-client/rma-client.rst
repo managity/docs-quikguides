@@ -2,9 +2,7 @@
 .. _document/rma-client:
 
 
-**Autorización de Devolución de Clientes**
-------------------------------------------
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Párrafo indexado 
-
-   Texto
+#. Texto

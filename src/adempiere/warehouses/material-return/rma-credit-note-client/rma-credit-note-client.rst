@@ -2,9 +2,7 @@
 .. _document/rma-credit-note-client:
 
 
-**Generar Nota de Crédito a Clientes**
---------------------------------------
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Párrafo indexado 
-
-   Texto
+#. Texto

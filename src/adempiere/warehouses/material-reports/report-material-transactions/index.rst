@@ -1,5 +1,13 @@
 
+.. _warehouses/report-material-transactions:
+
+=====================
+**Reporte de Kardex**
+=====================
+
+Se describen los casos para manejar el Reporte de Kardex. 
+
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 4
 
     report-material-transactions

@@ -2,9 +2,7 @@
 .. _document/rma-vendor:
 
 
-**Autorización de Devolución a Proveedores**
---------------------------------------------
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Párrafo indexado 
-
-   Texto
+#. Texto

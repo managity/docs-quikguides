@@ -2,9 +2,7 @@
 .. _document/rma-material-receipt:
 
 
-**Recibo de Devoluciones**
---------------------------
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Párrafo indexado 
-
-   Texto
+#. Texto

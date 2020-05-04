@@ -2,9 +2,7 @@
 .. _document/internal-use-inventory:
 
 
-**Inventario  Uso Interno**
----------------------------
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Párrafo indexado 
-
-   Texto
+#. Texto

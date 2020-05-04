@@ -2,9 +2,7 @@
 .. _document/report-material-transactions:
 
 
-**Reporte de Kardex**
----------------------
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Párrafo indexado 
-
-   Texto
+#. Texto

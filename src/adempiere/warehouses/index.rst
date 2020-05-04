@@ -1,3 +1,13 @@
+.. _/warehouses:
+
+=============
+**Almacenes**
+=============
+
+Se describen procesos importantes en el manejo de Almacenes.
+
+**Tabla de Contenido**
+
 .. toctree::
     :maxdepth: 2
 

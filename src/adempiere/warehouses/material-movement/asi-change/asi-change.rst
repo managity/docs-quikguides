@@ -2,9 +2,7 @@
 .. _document/asi-change:
 
 
-**Cambio de Lote**
-------------------
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Párrafo indexado 
-
-   Texto
+#. Texto

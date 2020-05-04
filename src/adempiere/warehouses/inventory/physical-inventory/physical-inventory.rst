@@ -1,10 +1,7 @@
 
 .. _document/physical-inventory:
 
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-**Inventario Físico**
----------------------
-
-#. Párrafo indexado 
-
-   Texto
+#. Texto
