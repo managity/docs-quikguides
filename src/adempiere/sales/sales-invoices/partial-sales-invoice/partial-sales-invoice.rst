@@ -1,10 +1,7 @@
 
 .. _document/partial-sales-invoice:
 
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-**Factura Parcial de  Venta**
------------------------------
-
-#. Párrafo indexado 
-
-   Texto
+#. Texto
