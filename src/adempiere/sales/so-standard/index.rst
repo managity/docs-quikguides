@@ -1,4 +1,4 @@
-.. _/sales/quote:
+.. _/sales/so-standard:
 
 ============================
 **Orden de Ventas Estándar**
