@@ -2,9 +2,7 @@
 .. _document/so-pos:
 
 
-**Punto de Ventas**
--------------------
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Párrafo indexado 
-
-   Texto
+#. Texto
