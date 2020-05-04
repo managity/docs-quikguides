@@ -1,10 +1,7 @@
 
 .. _document/quote-authorization:
 
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-**Autorización de Cotización**
--------------------------
-
-#. Párrafo indexado 
-
-   Texto
+#. Texto
