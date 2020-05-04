@@ -4,7 +4,7 @@
 **Ventas**
 ==========
 
-Se describen procesos importantes en Compras.
+Se describen procesos importantes en Ventas.
 
 **Tabla de Contenido**
 
