@@ -14,6 +14,7 @@ Tabla de Contenido
     adempiere/purchase/index
     adempiere/sales/index
     adempiere/warehouses/index
+    adempiere/banks/index
 
 
 Para Mayor Información
