@@ -1,4 +1,4 @@
-
+.. _/purchase/close-po:
 
 ==========================
 **Cerrar Orden de Compra**
