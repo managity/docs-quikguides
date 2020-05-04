@@ -1,3 +1,13 @@
+.. _/sales/quote:
+
+==============
+**Cotización**
+==============
+
+Se describen procesos importantes en Cotizaciones.
+
+**Tabla de Contenido**
+
 
 
 .. toctree::
