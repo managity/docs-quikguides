@@ -2,9 +2,7 @@
 .. _document/so-paid-immediate:
 
 
-**Orden de Venta Estándar Pago Inmediato**
-------------------------------------------
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Párrafo indexado 
-
-   Texto
+#. Texto
