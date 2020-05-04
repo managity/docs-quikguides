@@ -1,4 +1,4 @@
-
+.. _/purchase/reactivate-po:
 
 =============================
 **Reactivar Orden de Compra**

@@ -1,4 +1,4 @@
-
+.. _/purchase/po-entry:
 
 ================================
 **Ingreso de Órdenes de Compra**

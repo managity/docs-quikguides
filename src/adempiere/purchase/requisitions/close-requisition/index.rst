@@ -1,4 +1,4 @@
-
+.. _/purchase/close-requisition:
 
 ===========================
 **Cerrar Requisición**
