@@ -1,3 +1,13 @@
+.. _/sales:
+
+==========
+**Ventas**
+==========
+
+Se describen procesos importantes en Ventas.
+
+**Tabla de Contenido**
+
 .. toctree::
     :maxdepth: 2
 

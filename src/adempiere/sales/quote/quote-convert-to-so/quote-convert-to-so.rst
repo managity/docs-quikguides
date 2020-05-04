@@ -1,10 +1,7 @@
 
 .. _document/quote-convert-to-so:
 
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-**Convertir Cotización en Orden de Ventas**
--------------------------------------------
-
-#. Párrafo indexado 
-
-   Texto
+#. Texto

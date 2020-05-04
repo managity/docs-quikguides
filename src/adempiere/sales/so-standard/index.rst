@@ -1,6 +1,15 @@
+.. _/sales/so-standard:
+
+============================
+**Orden de Ventas Estándar**
+============================
+
+Se describen procesos importantes en Orden de Ventas Estándar.
+
+**Tabla de Contenido**
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 3
 
     so-standard-entry/index
     so-standard-authorization-under-limit-price/index

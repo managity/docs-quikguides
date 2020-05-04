@@ -1,10 +1,7 @@
 
 .. _document/so-credit:
 
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-**Orden de Venta Estándar al Crédito**
---------------------------------------
-
-#. Párrafo indexado 
-
-   Texto
+#. Texto

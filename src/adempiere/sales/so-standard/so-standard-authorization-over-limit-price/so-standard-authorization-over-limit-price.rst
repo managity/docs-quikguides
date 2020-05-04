@@ -2,9 +2,7 @@
 .. _document/so-standard-authorization-over-limit-price:
 
 
-**Orden de Venta Estándar: Autorización sobre límite de precio**
-----------------------------------------------------------------
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Párrafo indexado 
-
-   Texto
+#. Texto

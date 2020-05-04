@@ -1,10 +1,7 @@
 
 .. _document/quote-entry:
 
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-**Ingreso de Cotización**
--------------------------
-
-#. Párrafo indexado 
-
-   Texto
+#. Texto

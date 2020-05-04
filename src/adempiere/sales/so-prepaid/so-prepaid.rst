@@ -2,9 +2,7 @@
 .. _document/so-prepaid:
 
 
-**Orden de Ventas Prepagada**
------------------------------
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Párrafo indexado 
-
-   Texto
+#. Texto

@@ -1,10 +1,7 @@
 
 .. _document/complete-sales-invoice:
 
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-**Factura Total de  Venta**
----------------------------
-
-#. Párrafo indexado 
-
-   Texto
+#. Texto
