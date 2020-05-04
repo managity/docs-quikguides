@@ -1,4 +1,4 @@
-
+.. _/sales/complete-sales-invoice:
 
 ==========================
 **Factura Total de Venta**
