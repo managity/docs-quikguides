@@ -1,3 +1,4 @@
+.. _/sales/quote-entry:
 
 =========================
 **Ingreso de Cotización**
