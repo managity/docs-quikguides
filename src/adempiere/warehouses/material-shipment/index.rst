@@ -1,5 +1,5 @@
 
-.. _/warehouses/material-shupment:
+.. _/warehouses/material-shipment:
 
 =======================
 **Entrega de Material**
