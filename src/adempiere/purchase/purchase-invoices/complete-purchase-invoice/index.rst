@@ -1,4 +1,4 @@
-
+.. _/purchase/complete-purchase-invoice:
 
 ===========================
 **Factura Total de Compra**
