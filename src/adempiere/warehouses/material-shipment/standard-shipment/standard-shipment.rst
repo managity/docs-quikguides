@@ -2,9 +2,7 @@
 .. _document/standard-shipment:
 
 
-**Entrega de Material**
------------------------
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Párrafo indexado 
-
-   Texto
+#. Texto
