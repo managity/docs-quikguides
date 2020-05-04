@@ -1,5 +1,11 @@
 
+=========================
+**Ingreso de Cotización**
+=========================
+
+Se describen los casos para ingresar una Cotización. 
+
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 4
 
     quote-entry
