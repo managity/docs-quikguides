@@ -2,9 +2,8 @@
 .. _document/report-inventory-valuation:
 
 
-**Reporte de Existencias valorado**
------------------------------------
 
-#. Párrafo indexado 
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-   Texto
+#. Texto
