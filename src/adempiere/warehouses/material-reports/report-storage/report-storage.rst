@@ -2,9 +2,7 @@
 .. _document/report-storage:
 
 
-**Reporte de Existencias (por producto/lote)**
-----------------------------------------------
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Párrafo indexado 
-
-   Texto
+#. Texto
