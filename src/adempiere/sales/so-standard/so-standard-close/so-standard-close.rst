@@ -2,9 +2,7 @@
 .. _document/so-standard-close:
 
 
-**Cerrar Orden de Venta Estándar**
-----------------------------------
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Párrafo indexado 
-
-   Texto
+#. Texto
