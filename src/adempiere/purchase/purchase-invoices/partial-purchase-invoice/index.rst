@@ -1,4 +1,4 @@
-
+.. _/purchase/partial-purchase-invoice:
 
 =============================
 **Factura Parcial de Compra**
