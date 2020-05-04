@@ -3,9 +3,7 @@
 .. _document/so-warehouse:
 
 
-**Orden de Ventas de Almacén**
-------------------------------
+**Explicación General**
+~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Párrafo indexado 
-
-   Texto
+#. Texto
