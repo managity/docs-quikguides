@@ -15,6 +15,7 @@ Tabla de Contenido
     adempiere/sales/index
     adempiere/warehouses/index
     adempiere/petty-cash-and-banks/index
+    adempiere/payments-in/index
 
 
 Para Mayor Información
