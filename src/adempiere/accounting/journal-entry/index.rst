@@ -10,7 +10,7 @@ Se describen los casos para manejar los Ingresos de partidas contables.
 .. toctree::
     :maxdepth: 3
 
-    journal-entry-batch
-    journal-entry-manual
-    month-closing
-    year-closing
+    journal-entry-batch/index
+    journal-entry-manual/index
+    month-closing/index
+    year-closing/index
