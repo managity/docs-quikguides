@@ -3,7 +3,7 @@
 
 ===============================
 **Cobro anticipado de Factura**
-================================
+===============================
 
 Se describen los casos para manejar Cobros anticipados de Factura. 
 
