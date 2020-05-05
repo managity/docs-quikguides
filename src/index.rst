@@ -5,7 +5,7 @@ Guías Rápidas de Managity
 La presente documentación está dirigida a usuarios finales operativos de Managity.
 
 Tabla de Contenido
-=================
+==================
 .. toctree::
     :caption: GUÍAS RÁPIDAS MANAGITY
     :maxdepth: 1
@@ -14,6 +14,7 @@ Tabla de Contenido
     adempiere/purchase/index
     adempiere/sales/index
     adempiere/warehouses/index
+    adempiere/petty-cash-and-banks/index
 
 
 Para Mayor Información
