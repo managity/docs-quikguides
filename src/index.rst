@@ -17,6 +17,7 @@ Tabla de Contenido
     adempiere/petty-cash-and-banks/index
     adempiere/payments-in/index
     adempiere/payments-out/index
+    adempiere/accounting/index
 
 
 Para Mayor Información
