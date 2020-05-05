@@ -1,7 +1,7 @@
 .. _/payments-in/payment-in-reports:
 
 ======================
-**Reportes de Cabros**
+**Reportes de Cobros**
 ======================
 
 Se describen Reportes de Cobros.
