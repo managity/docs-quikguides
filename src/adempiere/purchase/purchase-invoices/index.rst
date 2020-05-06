@@ -13,3 +13,4 @@ Se describen procesos importantes en Facturas de Compra.
 
     complete-purchase-invoice/index
     partial-purchase-invoice/index
+    cost-invoice/index
