@@ -18,6 +18,7 @@ Tabla de Contenido
     adempiere/payments-in/index
     adempiere/payments-out/index
     adempiere/accounting/index
+    adempiere/quick-views/index
 
 
 Para Mayor Información
