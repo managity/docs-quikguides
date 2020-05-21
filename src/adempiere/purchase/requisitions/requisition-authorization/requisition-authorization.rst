@@ -5,3 +5,5 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 #. Pasos para autorizar una Requisición
+
+Se deberá autorizar
