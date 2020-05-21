@@ -4,4 +4,4 @@
 **Explicación de Autorización de Requisiciones**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Pasos
+#. Pasos para autorizar una Requisición
