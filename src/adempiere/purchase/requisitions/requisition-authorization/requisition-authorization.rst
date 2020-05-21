@@ -1,7 +1,7 @@
 
 .. _document/requisition-authorization:
 
-**Explicación General**
-~~~~~~~~~~~~~~~~~~~~~~~
+**Explicación de Autorización de Requisiciones**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Texto
+#. Pasos
